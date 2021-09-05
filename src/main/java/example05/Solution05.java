@@ -3,8 +3,13 @@
  *  Copyright 2021 Marcelino Pozo-Joseph
  */
 /*
-    PSEUDOCODE GOES HERE
-    Basically write out step by step what ur codes doing.
+    PSEUDOCODE
+    -Create a scanner to grab user input, also create int's for both user inputs
+    and to store solutions to those inputs
+    -Prompt for and then store 2 numbers, these will be held as num1 and num2
+        -To convert these from strings to ints maybe use .parseInt();
+    -Finally calculate and display the sum, difference, producat and quotient
+    -Make sure to display this in one .println() call, use proper formatting!!
  */
 package example05;
 
